@@ -27,7 +27,9 @@ Supported Platforms
  * Windows
  * Web
  * OSX
- 
+ * iPhone
+ * iPad
+ * Android
 Todo
 ----
 
